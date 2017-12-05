@@ -2,6 +2,8 @@
 
 This is a Google Chrome extension which copy Github utl to clipboard.
 
+[Chrome Web Store](https://chrome.google.com/webstore/detail/copy-github-url/gfpgjjgfendkmmeackcancgddjkanmgc)
+
 
 # License
 
